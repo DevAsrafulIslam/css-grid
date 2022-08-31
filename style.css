@@ -1,0 +1,8 @@
+.wrapper {
+  background: #eee;
+  padding: 1em;
+  display: grid;
+}
+.wrapper:nth-child(odd) {
+  background: #ddd;
+}
